@@ -48,14 +48,15 @@ Security Insights
  -Even well-known extensions can become malicious after updates.
 
 
-6.Conclusion:
- -Retain only essential, trusted, and actively used extensions.
- -Always install extensions from official stores (Chrome Web Store, Mozilla Add-ons).
- -Check permissions regularly, especially for extensions that can read/write to all websites.
- -Periodic extension audits are essential for maintaining:
- -Browser security
- -System performance
- -Personal privacy
+6. Conclusion:
+ 
+   -Retain only essential, trusted, and actively used extensions.
+   -Always install extensions from official stores (Chrome Web Store, Mozilla Add-ons).
+   -Check permissions regularly, especially for extensions that can read/write to all websites.
+   -Periodic extension audits are essential for maintaining:
+   -Browser security
+   -System performance
+   -Personal privacy
 
 
 
