@@ -9,7 +9,7 @@
  - Purpose and usefulness.
  - Potential risks to privacy and security.
 
-##Summary of Actions Taken
+*Summary of Actions Taken*
 
 Reviewed the following extensions:
 Wappalyzer, Turbo VPN, ChatGPT Extension, and Video Downloader
@@ -23,7 +23,7 @@ Wappalyzer, Turbo VPN, ChatGPT Extension, and Video Downloader
 
 Made recommendations for each based on risk analysis.
 
-##Extension Evaluation
+*Extension Evaluation*
 
 3.Extension Name	Status	Reason:
 
@@ -42,7 +42,7 @@ Made recommendations for each based on risk analysis.
  - Lower memory and CPU usage
  - Improved control over what each extension can access.
 
-Security Insights
+*Security Insights*
 
 5.Extensions from unknown developers can:
 
