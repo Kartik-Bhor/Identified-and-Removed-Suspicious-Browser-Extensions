@@ -2,7 +2,7 @@
 
 *Installed Browser Extensions Audit Report*
 
-Each extension was evaluated for:
+1.Each extension was evaluated for:
 
  -Origin and trustworthiness
  -Permissions requested
@@ -14,7 +14,7 @@ Each extension was evaluated for:
 Reviewed the following extensions:
 Wappalyzer, Turbo VPN, ChatGPT Extension, and Video Downloader
 
-Assessed each based on:
+2.Assessed each based on:
  -Usage frequency
  -Source and authenticity
  -Security concerns and user reviews
@@ -24,14 +24,14 @@ Made recommendations for each based on risk analysis.
 
 ##Extension Evaluation
 
-Extension Name	Status	Reason:
+3.Extension Name	Status	Reason:
  -Wappalyzer-> Retained	Trusted tool for identifying web technologies. Safe and widely used.
  -Turbo VPN Review-> Recommended	VPN extensions can log or leak data. Requires verification.
  -ChatGPT Extension-> Retained	Safe if installed from the official source. Useful for ChatGPT access.
  -Video Downloader-> Remove Recommended	Often from unverified sources. May inject ads or abuse permissions.
 
 
-Post-Audit Results:
+4.Post-Audit Results:
  -The browser was restarted after uninstalling or reviewing extensions.
  -Performance improvements observed:
  -Faster page load times
@@ -41,7 +41,7 @@ Post-Audit Results:
 
 Security Insights
 
-Extensions from unknown developers can:
+5.Extensions from unknown developers can:
  -Steal passwords and personal data
  -Redirect browser searches or load malware
  -Inject ads or track user activity
@@ -49,7 +49,7 @@ Extensions from unknown developers can:
  -Even well-known extensions can become malicious after updates.
 
 
-Conclusion:
+6.Conclusion:
  -Retain only essential, trusted, and actively used extensions.
  -Always install extensions from official stores (Chrome Web Store, Mozilla Add-ons).
  -Check permissions regularly, especially for extensions that can read/write to all websites.
