@@ -56,3 +56,14 @@ Security Insights
  -Browser security
  -System performance
  -Personal privacy
+
+
+
+  6. Tips Learned:
+
+      - Avoid names, patterns, or common words.
+      - Longer = stronger.
+      - Mix symbols/numbers for complexity.
+      - Use randomness.
+      - Store securely with a password manager.
+ 
