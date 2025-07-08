@@ -3,10 +3,10 @@
 *Installed Browser Extensions Audit Report*
 
 1.Each extension was evaluated for:
-  -Origin and trustworthiness.
-  -Permissions requested.
-  -Purpose and usefulness.
-  -Potential risks to privacy and security.
+-Origin and trustworthiness.
+-Permissions requested.
+-Purpose and usefulness.
+-Potential risks to privacy and security.
 
 ##Summary of Actions Taken
 
