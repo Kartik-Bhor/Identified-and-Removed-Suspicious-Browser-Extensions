@@ -3,6 +3,7 @@
 *Installed Browser Extensions Audit Report*
 
 Each extension was evaluated for:
+
  -Origin and trustworthiness
  -Permissions requested
  -Purpose and usefulness
