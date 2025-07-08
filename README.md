@@ -4,10 +4,10 @@
 
 1.Each extension was evaluated for:
 
-   - Origin and trustworthiness.
-   - Permissions requested.
-   - Purpose and usefulness.
-   - Potential risks to privacy and security.
+ - Origin and trustworthiness.
+ - Permissions requested.
+ - Purpose and usefulness.
+ - Potential risks to privacy and security.
 
 ##Summary of Actions Taken
 
@@ -15,6 +15,7 @@ Reviewed the following extensions:
 Wappalyzer, Turbo VPN, ChatGPT Extension, and Video Downloader
 
 2.Assessed each based on:
+
  - Usage frequency
  - Source and authenticity
  - Security concerns and user reviews
@@ -25,6 +26,7 @@ Made recommendations for each based on risk analysis.
 ##Extension Evaluation
 
 3.Extension Name	Status	Reason:
+
  - Wappalyzer-> Retained	Trusted tool for identifying web technologies. Safe and widely used.
  - Turbo VPN Review-> Recommended	VPN extensions can log or leak data. Requires verification.
  - ChatGPT Extension-> Retained	Safe if installed from the official source. Useful for ChatGPT access.
@@ -32,6 +34,7 @@ Made recommendations for each based on risk analysis.
 
 
 4.Post-Audit Results:
+
  - The browser was restarted after uninstalling or reviewing extensions.
  - Performance improvements observed:
  - Faster page load times
@@ -42,6 +45,7 @@ Made recommendations for each based on risk analysis.
 Security Insights
 
 5.Extensions from unknown developers can:
+
  - Steal passwords and personal data
  - Redirect browser searches or load malware
  - Inject ads or track user activity
@@ -51,23 +55,16 @@ Security Insights
 
  6. Conclusion:
  
-      - Retain only essential, trusted, and actively used extensions.
-      - Always install extensions from official stores (Chrome Web Store, Mozilla Add-ons).
-      - Check permissions regularly, especially for extensions that can read/write to all websites.
+ - Retain only essential, trusted, and actively used extensions.
+ - Always install extensions from official stores (Chrome Web Store, Mozilla Add-ons).
+ - Check permissions regularly, especially for extensions that can read/write to all websites.
 
  7. Periodic extension audits are essential for maintaining:
   
-      - Browser security.
-      - System performance.
-      - Personal privacy.
+ - Browser security.
+ - System performance.
+ - Personal privacy.
 
 
 
-  6. Tips Learned:
-
-      - Avoid names, patterns, or common words.
-      - Longer = stronger.
-      - Mix symbols/numbers for complexity.
-      - Use randomness.
-      - Store securely with a password manager.
  
